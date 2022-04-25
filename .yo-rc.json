@@ -1,0 +1,8 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "test"
+    },
+    "libraryName": "tab1"
+  }
+}
